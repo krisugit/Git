@@ -11,6 +11,7 @@
 		A41670A22AF1BA2B00A9404D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A41670A12AF1BA2B00A9404D /* ContentView.swift */; };
 		A41670A42AF1BA2D00A9404D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A41670A32AF1BA2D00A9404D /* Assets.xcassets */; };
 		A41670A82AF1BA2D00A9404D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A41670A72AF1BA2D00A9404D /* Preview Assets.xcassets */; };
+		A47A86C62AF1C44F008A4785 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A47A86C52AF1C44F008A4785 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		A41670A32AF1BA2D00A9404D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A41670A52AF1BA2D00A9404D /* Git.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Git.entitlements; sourceTree = "<group>"; };
 		A41670A72AF1BA2D00A9404D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A47A86C52AF1C44F008A4785 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				A416709F2AF1BA2B00A9404D /* GitApp.swift */,
 				A41670A12AF1BA2B00A9404D /* ContentView.swift */,
+				A47A86C52AF1C44F008A4785 /* SecondView.swift */,
 				A41670A32AF1BA2D00A9404D /* Assets.xcassets */,
 				A41670A52AF1BA2D00A9404D /* Git.entitlements */,
 				A41670A62AF1BA2D00A9404D /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A47A86C62AF1C44F008A4785 /* SecondView.swift in Sources */,
 				A41670A22AF1BA2B00A9404D /* ContentView.swift in Sources */,
 				A41670A02AF1BA2B00A9404D /* GitApp.swift in Sources */,
 			);
